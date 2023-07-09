@@ -107,3 +107,13 @@ main{
  .about-info {
     text-align: center;
  }
+
+ .info-title {
+    font-size: 12px;
+    color:#474747;
+    margin: 0 px;
+ }
+
+ #what-i-do{
+    padding: 30px 150px;
+ }
